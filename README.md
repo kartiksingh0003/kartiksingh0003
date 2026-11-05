@@ -15,8 +15,7 @@ Hey! I'm **Kartik Singh**, a BCA student and aspiring developer passionate about
 - 🎓 Currently pursuing Bachelor of Computer Applications (BCA).
 - 🐍 Learning Python.
 - 🌐 Exploring Web Development.
-- 💡 Interested in building creative and modern digital experiences.
-- 🚀 Improving my coding skills one project at a time.
+- 🚀 Improving my coding skills.
 - 🎯 My goal is to become a skilled software developer.
 
 ---
