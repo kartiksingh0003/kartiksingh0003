@@ -26,11 +26,6 @@ Hey! I'm **Kartik Singh**, a BCA student and aspiring developer passionate about
   <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode&theme=dark" />
 </p>
 
----
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
