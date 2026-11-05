@@ -41,14 +41,6 @@ Hey! I'm **Kartik Singh**, a BCA student and aspiring developer passionate about
 
 ---
 
-### 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
-
 ### 🌐 Connect With Me
 
 <p align="left">
